@@ -1,0 +1,21 @@
+<resources>
+    <color name="status_bar_red">#ffbf2e2e</color>
+    <color name="status_bar_orange">#ffd24a19</color>
+    <color name="status_bar_blue">#ff1963be</color>
+    <color name="status_bar_green">#ff367a3a</color>
+    <color name="status_bar_purple">#ff4a2d94</color>
+    <color name="status_bar_dark">#ff141414</color>
+
+    <color name="soft_opaque">#30000000</color>
+    <color name="img_soft_opaque">#30FF0000</color>
+    <color name="img_full_opaque">#00000000</color>
+    <color name="black_opaque">#AA000000</color>
+    <color name="black">#59000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange_transparent">#AAFADCA7</color>
+    <color name="orange">#FADCA7</color>
+    <color name="yellow">#EEFF41</color>
+    <color name="default_background">#3d3d3d</color>
+    <color name="listSelectorColor">#ffcecece</color>
+    <color name="listActivatedColor">#ffdadada</color>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Zip Downloader</string>
+
+    <!-- Easily Identifiable Placholder String Used for Testing -->
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Settings -->
+    <string name="action_settings">Settings</string>
+
+    <!-- App Intro Activity Title -->
+    <string name="app_intro">App Intro</string>
+
+    <!-- App Intro Slide 1 Strings -->
+    <string name="app_intro_slide_1_title">Slide 1 Title</string>
+    <string name="app_intro_slide_1_description">Slide 1 Description</string>
+    <string name="app_intro_slide_1_image_description">App intro image 1</string>
+
+    <!-- App Intro Slide 2 Strings -->
+    <string name="app_intro_slide_2_title">Slide 2 Title</string>
+    <string name="app_intro_slide_2_description">Slide 2 Description</string>
+    <string name="app_intro_slide_2_image_description">App intro image 2</string>
+
+    <!-- App Intro Slide 3 Strings -->
+    <string name="app_intro_slide_3_title">Slide 3 Title</string>
+    <string name="app_intro_slide_3_description">Slide 3 Description</string>
+    <string name="app_intro_slide_3_image_description">App intro image 3</string>
+
+    <!-- App Intro Slide 4 Strings -->
+    <string name="app_intro_slide_4_title">Slide 4 Title</string>
+    <string name="app_intro_slide_4_description">Slide 4 Description</string>
+    <string name="app_intro_slide_4_image_description">App intro image 4</string>
+
+    <!-- Contributor Strings -->
+    <string name="contributors">About</string>
+
+    <string name="contributor_name_david">David Ratkovic</string>
+    <string name="contributor_info_david">Graphic Designer</string>
+
+    <string name="contributor_name_andrew">Andrew Quebe</string>
+    <string name="contributor_info_andrew">App Developer</string>
+
+</resources>
