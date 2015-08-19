@@ -58,7 +58,7 @@ public class DownloadFragment extends Fragment {
 
                 final DownloadTask downloadTask = new DownloadTask(getActivity());
                 //Make sure you match local file name with this one here
-                downloadTask.execute("http://www.amqtech.com/planets_walls/david/david_wall_1.jpg");
+                downloadTask.execute("your url");
 
                 mProgressDialog.setOnCancelListener(new DialogInterface.OnCancelListener() {
                     @Override
@@ -115,7 +115,7 @@ public class DownloadFragment extends Fragment {
                         //Downloads folder
                         + "/Download"
                         //File name
-                        + "/david_wall_1.jpg");
+                        + "/filename.extension");
 
                 byte data[] = new byte[4096];
                 long total = 0;
